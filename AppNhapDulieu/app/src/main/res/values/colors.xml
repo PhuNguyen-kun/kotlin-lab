@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="default_input_bg">#F0F0F0</color> <color name="error_input_bg">#FFCDD2</color> <color name="error_text_color">#D32F2F</color>
+</resources>
